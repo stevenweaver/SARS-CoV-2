@@ -2,7 +2,7 @@
 
 Following docking, scoring, and ranking, the aim was to select 500 compounds which could be synthesised.
 
-For this, all scores for the 17 fragments were combined (i.e. so that each compound was assigned the lowest score from all the fragments). The resulting table was then compared with a list of compounds available from [https://enamine.net](Enamine) and [https://chem-space.com](Chemspace-BB) and the 500 highest scoring matching compounds were selected for purchase.
+For this, all scores for the 17 fragments were combined (i.e. so that each compound was assigned the lowest score from all the fragments). The resulting table was then compared with a list of compounds available from [Enamine](https://enamine.net) and [Chemspace-BB](https://chem-space.com) and the 500 highest scoring matching compounds were selected for purchase.
 
 ## Live Resources
 
